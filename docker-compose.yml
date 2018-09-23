@@ -1,0 +1,6 @@
+version: "3"
+
+services:
+  ubuntu:
+    image: registry.advanpro.cn/ubuntu-base-runtime:1.0.0-ubuntu16.04-java8
+    container_name: ubuntu-base-runtime
